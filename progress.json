@@ -86,5 +86,14 @@
       "Great work using git tag to annotate various commits in the repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1787310061.205487,
+    "completed_at": 1787310066.259622,
+    "comments": [
+      "Tag beta is still on the remote!"
+    ],
+    "status": "Incomplete"
   }
 ]
